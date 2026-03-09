@@ -1,36 +1,41 @@
-PICTetris - Video Game (PIC16F84A)
-🕹️ Descripción
-Este proyecto consiste en el diseño y desarrollo de un sistema de hardware embebido para ejecutar una versión del legendario videojuego Tetris. Fue desarrollado originalmente en el año 2010 como proyecto universitario para el Concurso de Innovación Tecnológica e Industrial de la Universidad Interamericana del Norte.
+# PICTetris - Video Game (PIC16F84A)
 
-El sistema está basado en el microcontrolador PIC16F84A y programado íntegramente en lenguaje ensamblador (ASM).
+![Status](https://img.shields.io/badge/Status-Legacy_Project-green)
+![Language](https://img.shields.io/badge/Language-Assembly-yellow)
+![Hardware](https://img.shields.io/badge/Hardware-PIC16F84A-blue)
 
-🛠️ Especificaciones Técnicas
-Microcontrolador: Microchip PIC16F84A.
+## 🕹️ Descripción
+Este proyecto consiste en el diseño y desarrollo de un sistema de hardware embebido para ejecutar una versión del videojuego **Tetris**. Fue desarrollado originalmente en el año **2010** como proyecto universitario para el Concurso de Innovación Tecnológica e Industrial de la **Universidad Interamericana del Norte**.
 
-Lenguaje: Ensamblador (Assembly) para optimización máxima de memoria y ciclos de instrucción.
+El sistema está basado en el microcontrolador **PIC16F84A** y programado íntegramente en **lenguaje ensamblador (ASM)**.
 
-Mejoras: Optimizaciones en el software para mejorar el tiempo de respuesta del control de mando respecto a versiones base.
+---
 
-Diseño de PCB: Realizado en PCB Wizard, optimizando el ruteo de pistas para un acabado industrial.
+## 🛠️ Especificaciones Técnicas
+* **Microcontrolador:** Microchip PIC16F84A.
+* **Lenguaje:** Ensamblador (Assembly) para optimización máxima de memoria y ciclos de instrucción.
+* **Mejoras de Software:** Optimizaciones en la lógica para mejorar el tiempo de respuesta del control de mando respecto a versiones base.
+* **Diseño de Hardware:** Esquema y ruteo de pistas realizado en **PCB Wizard**.
 
-📂 Contenido del Repositorio
-/Source: Código fuente en formato .asm y archivo ejecutable .hex.
+---
 
-/Hardware: Diagramas esquemáticos y diseño de la placa (PCB).
+## 📂 Estructura del Repositorio
+* `/Source`: Código fuente original en formato `.asm` y archivo ejecutable `.hex`.
+* `/Hardware`: Diagramas esquemáticos y diseño de la placa (PCB).
+* `/Docs`: Documentación técnica y manual de operación.
 
-/Docs: Documentación técnica y manual de operación.
+---
 
-🤝 Créditos y Referencias
-Este proyecto es un tributo a la lógica de programación del Tetris original de los años 80 creado por el ingeniero ruso Alekséi Pázhitnov.
+## 🤝 Créditos y Referencias
+Este proyecto es un tributo a la lógica de programación del Tetris original de los años 80 creado por el ingeniero ruso **Alekséi Pázhitnov**.
 
-Proyecto Base: Basado en el trabajo original de Rickard Gunee, con modificaciones y mejoras sustanciales en la respuesta de control y estabilidad.
+* **Proyecto Base:** Inspirado en el trabajo original de **Rickard Gunee**, con modificaciones sustanciales en la respuesta de control.
+* **Referencia Oficial:** [Tetris.com](https://www.tetris.com).
 
-Referencia Oficial: Tetris.com.
+---
 
-👤 Autor
-Irving Adair Salinas Cervantes
-Master en Ciencias Computacionales y Telecomunicaciones.
-
-Sitio Web: irvingsalinas.jimdofree.com.
-
-LinkedIn: Irving Adair Salinas Cervantes.
+## 👤 Autor
+**Irving Adair Salinas Cervantes**
+*Ingeniero en Electrónica & Máster en Ciencias Computacionales y Telecomunicaciones*.
+* Sitio Web: [irvingsalinas.jimdofree.com](https://irvingsalinas.jimdofree.com).
+* Consultoría IT: [RackMango.com](https://RackMango.com).
