@@ -37,4 +37,3 @@ Este proyecto es un tributo a la lógica de programación del Tetris original de
 **Irving Adair Salinas Cervantes**
 *Ingeniero en Electrónica & Máster en Ciencias Computacionales y Telecomunicaciones*.
 * Sitio Web: [irvingsalinas.jimdofree.com](https://irvingsalinas.jimdofree.com).
-* Consultoría IT: [RackMango.com](https://RackMango.com).
