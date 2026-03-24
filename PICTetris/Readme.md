@@ -21,7 +21,7 @@ El sistema está basado en el microcontrolador **PIC16F84A** y programado ínteg
 
 ## 📂 Estructura del Repositorio
 * Aquí encontrarás el código fuente (ASM) para el microcontrolador PIC16F84A, la electrónica para creear el sistema mínimo para el PIC16F84A y la electrónica del PICTetris.
-* Adicional se comparte el archivo para que puedas imprimir el PCB (el PCB fue diseñado en PCBWizard.
+* Adicional se comparte el archivo para que puedas imprimir el PCB (el PCB fue diseñado en PCBWizard).
 
 ---
 
