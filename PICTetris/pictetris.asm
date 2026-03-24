@@ -1,14 +1,10 @@
-;					PICTETRIS
-;			(C) Rickard Gunée 1998
+;   PICTETRIS
+;--------------------------------------------------
+;Desarrollado por Irving Adair Salinas Cervantes
+;Proyecto basado en el proyecto de Tetris PIC de Rickard Gunee del PIC16F628A.
+;http://www.rickard.gunee.com/projects
 ;
-;	This is shareware, use it at your own risk.
-;
-;	You will find more info about the project
-;	and more info on video signals here:
-;	http://www.rickard.gunee.com/projects
-;
-;	Outputs composite NTSC video signal using
-;	only two resistors!
+; Genera la señal de vídeo compuesta NTSC utilizando solo dos resistencias.
 
 
 		list	p=16F84,r=hex
