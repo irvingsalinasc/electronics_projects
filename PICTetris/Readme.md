@@ -1,5 +1,8 @@
 # PICTetris - Video Game (PIC16F84A)
 
+<img width="1208" height="628" alt="image" src="https://github.com/user-attachments/assets/9f962b72-deb7-404f-accf-c9b5cd0e9631" />
+
+
 ![Status](https://img.shields.io/badge/Status-Legacy_Project-green)
 ![Language](https://img.shields.io/badge/Language-Assembly-yellow)
 ![Hardware](https://img.shields.io/badge/Hardware-PIC16F84A-blue)
